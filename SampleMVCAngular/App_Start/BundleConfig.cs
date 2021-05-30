@@ -9,9 +9,10 @@ namespace SampleMVCAngular
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/AngularScripts").Include(
-                        "~/Scripts/AngularScripts/runtime.*",
-                        "~/Scripts/AngularScripts/polyfills.*",
-                        "~/Scripts/AngularScripts/main.*"));
+                        "~/Scripts/AngularScripts/runtime*",
+                        "~/Scripts/AngularScripts/polyfills*",
+                        "~/Scripts/AngularScripts/vendor*",
+                        "~/Scripts/AngularScripts/main*"));
 
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
                         "~/Scripts/jquery-{version}.js"));
