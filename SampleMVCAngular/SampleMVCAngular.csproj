@@ -137,32 +137,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="Scripts\AngularApp\e2e\protractor.conf.js" />
-    <Content Include="Scripts\AngularApp\karma.conf.js" />
-    <Content Include="Scripts\AngularApp\src\app\app.component.html" />
-    <Content Include="Scripts\AngularApp\src\app\product\product.component.html" />
-    <Content Include="Scripts\AngularApp\src\app\sample\sample.component.html" />
-    <Content Include="Scripts\AngularApp\src\favicon.ico" />
-    <Content Include="Scripts\AngularApp\src\index.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="Scripts\AngularApp\.editorconfig" />
-    <Content Include="Scripts\AngularApp\.gitignore" />
-    <Content Include="Scripts\AngularApp\angular.json" />
-    <Content Include="Scripts\AngularApp\browserslist" />
-    <Content Include="Scripts\AngularApp\e2e\tsconfig.json" />
-    <Content Include="Scripts\AngularApp\package-lock.json" />
-    <Content Include="Scripts\AngularApp\package.json" />
-    <Content Include="Scripts\AngularApp\README.md" />
-    <Content Include="Scripts\AngularApp\src\app\app.component.scss" />
-    <Content Include="Scripts\AngularApp\src\app\product\product.component.scss" />
-    <Content Include="Scripts\AngularApp\src\app\sample\sample.component.scss" />
-    <Content Include="Scripts\AngularApp\src\assets\.gitkeep" />
-    <Content Include="Scripts\AngularApp\src\styles.scss" />
-    <Content Include="Scripts\AngularApp\tsconfig.app.json" />
-    <Content Include="Scripts\AngularApp\tsconfig.json" />
-    <Content Include="Scripts\AngularApp\tsconfig.spec.json" />
-    <Content Include="Scripts\AngularApp\tslint.json" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -205,21 +181,6 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
-  </ItemGroup>
-  <ItemGroup>
-    <TypeScriptCompile Include="Scripts\AngularApp\e2e\src\app.e2e-spec.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\e2e\src\app.po.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\src\app\app-routing.module.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\src\app\app.component.spec.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\src\app\app.component.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\src\app\app.module.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\src\app\product\product.component.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\src\app\sample\sample.component.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\src\environments\environment.prod.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\src\environments\environment.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\src\main.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\src\polyfills.ts" />
-    <TypeScriptCompile Include="Scripts\AngularApp\src\test.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
